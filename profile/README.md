@@ -11,6 +11,8 @@ The open **protocol, specification, framework and reference implementations** th
 
 [Website](https://ai2web.dev) · [Validator](https://ai2web.dev/#validator) · [Specification](https://github.com/ai2web-foundation/ai2web-spec) · [RFCs](https://github.com/ai2web-foundation/ai2web-spec/tree/main/rfcs) · [Whitepaper](https://github.com/ai2web-foundation/docs)
 
+<a href="https://www.producthunt.com/products/ai2web?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-ai2web" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1193322&theme=dark&t=1783854932637" alt="AI2Web - Describe your site once. Every AI agent can use it. | Product Hunt" width="250" height="54" /></a>
+
 </div>
 
 ---
