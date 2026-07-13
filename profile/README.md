@@ -45,6 +45,8 @@ From that one description, AI2Web speaks whichever protocol an assistant underst
 | [**ai2web-wordpress**](https://github.com/ai2web-foundation/ai2web-wordpress) | WordPress and WooCommerce plugin |
 | [**ai2web-directory**](https://github.com/ai2web-foundation/ai2web-directory) | The Discovery Network service (public metadata only) |
 | [**ai2web.dev**](https://github.com/ai2web-foundation/ai2web.dev) | The website and live AI Readiness Validator |
+| [**ai2web-validator**](https://github.com/ai2web-foundation/ai2web-validator) | The validator API: a Worker that scores any site's AI readiness over REST and MCP (validator.ai2web.dev) |
+| [**ai2web-chrome**](https://github.com/ai2web-foundation/ai2web-chrome) | Chrome extension: check any site's AI readiness from the toolbar |
 | [**docs**](https://github.com/ai2web-foundation/docs) | Whitepaper, positioning and strategy |
 
 ## Reference implementations
