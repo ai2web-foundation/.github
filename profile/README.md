@@ -13,6 +13,8 @@ The open **protocol, specification, framework and reference implementations** th
 
 [![npm](https://img.shields.io/npm/v/@ai2web/core?label=npm%20%40ai2web%2Fcore)](https://www.npmjs.com/package/@ai2web/core)
 [![PyPI](https://img.shields.io/pypi/v/ai2web?label=PyPI%20ai2web)](https://pypi.org/project/ai2web/)
+[![Packagist](https://img.shields.io/packagist/v/ai2web/ai2web?label=Packagist%20ai2web%2Fai2web)](https://packagist.org/packages/ai2web/ai2web)
+[![NuGet](https://img.shields.io/nuget/v/Ai2Web?label=NuGet%20Ai2Web)](https://www.nuget.org/packages/Ai2Web)
 [![Go Reference](https://pkg.go.dev/badge/github.com/ai2web-foundation/ai2web-go.svg)](https://pkg.go.dev/github.com/ai2web-foundation/ai2web-go)
 
 <a href="https://www.producthunt.com/products/ai2web?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-ai2web" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1193322&theme=dark&t=1783854932637" alt="AI2Web - Describe your site once. Every AI agent can use it. | Product Hunt" width="250" height="54" /></a>
@@ -42,10 +44,10 @@ From that one description, AI2Web speaks whichever protocol an assistant underst
 |---|---|
 | [**ai2web-spec**](https://github.com/ai2web-foundation/ai2web-spec) | The protocol: specification, JSON Schema, RFCs (0000 to 0011), conformance suite, reference manifests |
 | [**ai2web-js**](https://github.com/ai2web-foundation/ai2web-js) | TypeScript / JavaScript / React framework: the `@ai2web/*` packages (core, validator, adapters, connector) &middot; [npm](https://www.npmjs.com/package/@ai2web/core) |
-| [**ai2web-php**](https://github.com/ai2web-foundation/ai2web-php) | PHP SDK |
+| [**ai2web-php**](https://github.com/ai2web-foundation/ai2web-php) | PHP SDK &middot; [Packagist](https://packagist.org/packages/ai2web/ai2web) (`composer require ai2web/ai2web`) |
 | [**ai2web-python**](https://github.com/ai2web-foundation/ai2web-python) | Python SDK &middot; [PyPI](https://pypi.org/project/ai2web/) (`pip install ai2web`) |
 | [**ai2web-go**](https://github.com/ai2web-foundation/ai2web-go) | Go SDK &middot; [pkg.go.dev](https://pkg.go.dev/github.com/ai2web-foundation/ai2web-go) (`go get github.com/ai2web-foundation/ai2web-go`) |
-| [**ai2web-dotnet**](https://github.com/ai2web-foundation/ai2web-dotnet) | .NET SDK (C#) |
+| [**ai2web-dotnet**](https://github.com/ai2web-foundation/ai2web-dotnet) | .NET SDK (C#) &middot; [NuGet](https://www.nuget.org/packages/Ai2Web) (`dotnet add package Ai2Web`) |
 | [**ai2web-wordpress**](https://github.com/ai2web-foundation/ai2web-wordpress) | WordPress and WooCommerce plugin |
 | [**ai2web-directory**](https://github.com/ai2web-foundation/ai2web-directory) | The Discovery Network service (public metadata only) |
 | [**ai2web.dev**](https://github.com/ai2web-foundation/ai2web.dev) | The website and live AI Readiness Validator |
