@@ -17,6 +17,10 @@ The open **protocol, specification, framework and reference implementations** th
 [![NuGet](https://img.shields.io/nuget/v/Ai2Web?label=NuGet%20Ai2Web)](https://www.nuget.org/packages/Ai2Web)
 [![Go Reference](https://pkg.go.dev/badge/github.com/ai2web-foundation/ai2web-go.svg)](https://pkg.go.dev/github.com/ai2web-foundation/ai2web-go)
 
+<a href="https://www.producthunt.com/products/ai2web?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-ai2web" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1193322&amp;theme=dark" alt="AI2Web on Product Hunt" height="48" /></a>
+<a href="https://peerlist.io/rolandfarkas/project/ai2web" target="_blank"><img src="https://peerlist.io/api/v1/projects/embed/PRJH7B87MEBAD67BP2699NRAB9MOR9?showUpvote=true&amp;theme=dark" alt="AI2Web on Peerlist" height="48" /></a>
+<a href="https://launchpadly.co/startup/ai2web?ref=badge" target="_blank"><img src="https://launchpadly.co/embed/badges/startup/ai2web.svg?variant=listed-on" alt="AI2Web on Launchpadly" height="48" /></a>
+
 </div>
 
 ---
