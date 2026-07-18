@@ -17,13 +17,6 @@ The open **protocol, specification, framework and reference implementations** th
 [![NuGet](https://img.shields.io/nuget/v/Ai2Web?label=NuGet%20Ai2Web)](https://www.nuget.org/packages/Ai2Web)
 [![Go Reference](https://pkg.go.dev/badge/github.com/ai2web-foundation/ai2web-go.svg)](https://pkg.go.dev/github.com/ai2web-foundation/ai2web-go)
 
-<a href="https://www.producthunt.com/products/ai2web?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-ai2web" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1193322&theme=dark&t=1783854932637" alt="AI2Web - Describe your site once. Every AI agent can use it. | Product Hunt" width="250" height="54" /></a>
-<a href="https://fazier.com/launches/ai2web.dev" target="_blank"><img src="https://fazier.com/api/v1//public/badges/launch_badges.svg?badge_type=featured&theme=dark" alt="Fazier badge" width="250" /></a>
-<a href="https://smollaunch.com" target="_blank"><img src="https://smollaunch.com/badges/featured-dark.svg" alt="AI2Web - Featured on Smol Launch" width="250" height="60" /></a>
-<a href="https://startupbase.io/products/ai2web?utm_source=startupbase&utm_medium=badge&utm_campaign=featured-badge-dark" target="_blank"><img src="https://statics.startupbase.io/site/badges/featured-on-sb-dark.svg" alt="Featured on StartupBase" height="55" /></a>
-<a href="https://startupfa.me/s/ai2web?utm_source=ai2web.dev" target="_blank"><img src="https://startupfa.me/badges/featured/dark.webp" alt="AI2Web - Featured on Startup Fame" width="171" height="54" /></a>
-<a href="https://peerlist.io/rolandfarkas/project/ai2web" target="_blank"><img src="https://peerlist.io/api/v1/projects/embed/PRJH7B87MEBAD67BP2699NRAB9MOR9?showUpvote=true&theme=dark" alt="AI2Web on Peerlist" height="72" /></a>
-
 </div>
 
 ---
