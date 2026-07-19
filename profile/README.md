@@ -16,6 +16,7 @@ The open **protocol, specification, framework and reference implementations** th
 [![Packagist](https://img.shields.io/packagist/v/ai2web/ai2web?label=Packagist%20ai2web%2Fai2web)](https://packagist.org/packages/ai2web/ai2web)
 [![NuGet](https://img.shields.io/nuget/v/Ai2Web?label=NuGet%20Ai2Web)](https://www.nuget.org/packages/Ai2Web)
 [![Go Reference](https://pkg.go.dev/badge/github.com/ai2web-foundation/ai2web-go.svg)](https://pkg.go.dev/github.com/ai2web-foundation/ai2web-go)
+[![RubyGems](https://img.shields.io/gem/v/ai2web?label=RubyGems%20ai2web)](https://rubygems.org/gems/ai2web)
 
 <a href="https://www.producthunt.com/products/ai2web?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-ai2web" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1193322&amp;theme=dark" alt="AI2Web on Product Hunt" height="48" /></a>
 <a href="https://peerlist.io/rolandfarkas/project/ai2web" target="_blank"><img src="https://peerlist.io/api/v1/projects/embed/PRJH7B87MEBAD67BP2699NRAB9MOR9?showUpvote=true&amp;theme=dark" alt="AI2Web on Peerlist" height="48" /></a>
@@ -50,6 +51,7 @@ From that one description, AI2Web speaks whichever protocol an assistant underst
 | [**ai2web-python**](https://github.com/ai2web-foundation/ai2web-python) | Python SDK &middot; [PyPI](https://pypi.org/project/ai2web/) (`pip install ai2web`) |
 | [**ai2web-go**](https://github.com/ai2web-foundation/ai2web-go) | Go SDK &middot; [pkg.go.dev](https://pkg.go.dev/github.com/ai2web-foundation/ai2web-go) (`go get github.com/ai2web-foundation/ai2web-go`) |
 | [**ai2web-dotnet**](https://github.com/ai2web-foundation/ai2web-dotnet) | .NET SDK (C#) &middot; [NuGet](https://www.nuget.org/packages/Ai2Web) (`dotnet add package Ai2Web`) |
+| [**ai2web-ruby**](https://github.com/ai2web-foundation/ai2web-ruby) | Ruby SDK &middot; [RubyGems](https://rubygems.org/gems/ai2web) (`gem install ai2web`) |
 | [**ai2web-wordpress**](https://github.com/ai2web-foundation/ai2web-wordpress) | WordPress and WooCommerce plugin |
 | [**ai2web-directory**](https://github.com/ai2web-foundation/ai2web-directory) | The Discovery Network service (public metadata only) |
 | [**ai2web.dev**](https://github.com/ai2web-foundation/ai2web.dev) | The website and live AI Readiness Validator |
@@ -59,7 +61,7 @@ From that one description, AI2Web speaks whichever protocol an assistant underst
 
 ## Reference implementations
 
-The framework is authored in TypeScript but ships as standard JavaScript, so it works in **TypeScript, JavaScript and React**, with SDKs across **PHP, Python, Go and .NET** and a **WordPress** plugin. Every SDK reproduces the same conformance contract, and the JS adapters (MCP, GraphQL, ACP, OpenAPI) all route through one guarded executor so the security rules hold uniformly.
+The framework is authored in TypeScript but ships as standard JavaScript, so it works in **TypeScript, JavaScript and React**, with SDKs across **PHP, Python, Go, .NET and Ruby** and a **WordPress** plugin. Every SDK reproduces the same conformance contract, and the JS adapters (MCP, GraphQL, ACP, OpenAPI) all route through one guarded executor so the security rules hold uniformly.
 
 npm packages under the `@ai2web` scope include `@ai2web/core`, `@ai2web/validator`, `@ai2web/mcp-bridge`, `@ai2web/graphql-adapter`, `@ai2web/acp-adapter`, `@ai2web/openapi-adapter`, `@ai2web/react`, `@ai2web/server` and `@ai2web/connector`.
 
