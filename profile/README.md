@@ -11,6 +11,8 @@ The open **protocol, specification, framework and reference implementations** th
 
 [Website](https://ai2web.dev) · [Validator](https://ai2web.dev/#validator) · [Specification](https://github.com/ai2web-foundation/ai2web-spec) · [RFCs](https://github.com/ai2web-foundation/ai2web-spec/tree/main/rfcs) · [Whitepaper](https://github.com/ai2web-foundation/docs)
 
+[![AI2Web on Launchpadly - Product of the Week (Gold)](https://launchpadly.co/embed/badges/startup/ai2web.svg?variant=product-week-gold)](https://launchpadly.co/startup/ai2web?ref=badge)
+
 [![npm](https://img.shields.io/npm/v/@ai2web/core?label=npm%20%40ai2web%2Fcore)](https://www.npmjs.com/package/@ai2web/core)
 [![PyPI](https://img.shields.io/pypi/v/ai2web?label=PyPI%20ai2web)](https://pypi.org/project/ai2web/)
 [![Packagist](https://img.shields.io/packagist/v/ai2web/ai2web?label=Packagist%20ai2web%2Fai2web)](https://packagist.org/packages/ai2web/ai2web)
